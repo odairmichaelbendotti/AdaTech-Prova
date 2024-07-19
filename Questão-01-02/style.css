@@ -1,0 +1,22 @@
+*{
+    font-family: 'Trebuchet MS';
+}
+
+h1{
+    color: red;
+    font-size: 24px;
+}
+
+p{
+    font-size: 14px;
+}
+
+h2{
+    font-size: 16px;
+    color: #801515;
+}
+
+ul{
+    font-size: 14px;
+    color: gray;
+}
