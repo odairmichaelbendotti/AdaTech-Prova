@@ -11,3 +11,5 @@ function verificar(nome, nota){
 }
 
 verificar('Odair', 10)
+
+//O prompt somente recebe strings. Por isso, fiz essa questão para rodar no terminal.
