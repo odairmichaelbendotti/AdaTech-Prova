@@ -22,4 +22,9 @@ Prova Ada Tech realizada em 19/07/2024 - das 19:15 às 22:00
    - Se a nota for igual ou maior que 8 "Parabéns NOME, você foi aprovado!"
    - Senão "Olá NOME! Infelizmente você foi reprovado."
    - Quero também uma validação para o caso do usuário não preencher um número.
- 
+
+--Questão 04--
+ - Desenvolva uma função que escreva no console de 1 a 100 e a cada 5 números escreva a palavra Ada.
+
+ --Questão 05--
+ - Em um bingo eu tenho uma cartela com os números 11, 28, 35, 74, 26 e 17. (2 pontos) Desenvolva uma função que sorteie números aleatórios entre 1 e 75 até serem sorteados todos os números da cartela. Após sortear toda a cartela exibe no console a frase "Parabéns, você ganhou!"
