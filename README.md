@@ -28,3 +28,9 @@ Prova Ada Tech realizada em 19/07/2024 - das 19:15 às 22:00
 
  --Questão 05--
  - Em um bingo eu tenho uma cartela com os números 11, 28, 35, 74, 26 e 17. (2 pontos) Desenvolva uma função que sorteie números aleatórios entre 1 e 75 até serem sorteados todos os números da cartela. Após sortear toda a cartela exibe no console a frase "Parabéns, você ganhou!"
+
+ --Questão 06--
+ - Pedro é da turma A e tem 14 anos, Maria é da turma A e tem 12 anos, Marcos é da turma B e tem 15 anos, Michel é da turma A e tem 13 anos, Ana é da turma B e tem 11 anos, Bruno é da turma B e tem 10 anos. Baseado nesses objetos desenvolva as seguintes funções: (2 pontos)
+
+  - Uma função que me retorne o nome e idade do aluno mais velho da turma A
+  - Uma função que me retorne a média de idade de todos os alunos.
